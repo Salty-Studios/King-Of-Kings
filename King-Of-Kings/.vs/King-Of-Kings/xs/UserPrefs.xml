@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{6C4085CA-ED98-AC25-652A-16F6DB7AC9C8}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/BoxController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/LocationController.cs" Line="14" Column="58" />
+      <File FileName="Assets/Scripts/PlayerController.cs" />
+      <File FileName="Assets/Scripts/ProjectileController.cs" />
+      <File FileName="Assets/Scripts/MagicController.cs" />
+      <File FileName="Assets/Scripts/ManaPotionController.cs" />
+      <File FileName="Assets/Scripts/PlayerItemCollectionController.cs" />
+      <File FileName="Assets/Scripts/FireBallController.cs" Line="11" Column="30" />
+      <File FileName="Assets/Scripts/BoxController.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="098f2e30-fa58-4e69-a8bb-26838c883282" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

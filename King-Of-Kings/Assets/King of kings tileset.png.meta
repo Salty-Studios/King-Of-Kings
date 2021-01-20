@@ -1,0 +1,1093 @@
+fileFormatVersion: 2
+guid: c11c3ce6f49c44d21b61f2927e524f0d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 199943233916901060
+    second: King of kings tileset_0
+  - first:
+      213: -4921571352324383884
+    second: King of kings tileset_1
+  - first:
+      213: -4938501543878527306
+    second: King of kings tileset_2
+  - first:
+      213: 4986230006461017284
+    second: King of kings tileset_3
+  - first:
+      213: -8885619890771164268
+    second: King of kings tileset_4
+  - first:
+      213: -4127608844318180464
+    second: King of kings tileset_5
+  - first:
+      213: -5088383502286110330
+    second: King of kings tileset_6
+  - first:
+      213: 718222510314745729
+    second: King of kings tileset_7
+  - first:
+      213: -6711179318838037005
+    second: King of kings tileset_8
+  - first:
+      213: -6946494089007168816
+    second: King of kings tileset_9
+  - first:
+      213: -2556429169660479840
+    second: King of kings tileset_10
+  - first:
+      213: 6600495568347415960
+    second: King of kings tileset_11
+  - first:
+      213: 577724449150771904
+    second: King of kings tileset_12
+  - first:
+      213: -6020822375275598575
+    second: King of kings tileset_13
+  - first:
+      213: 163790554898004642
+    second: King of kings tileset_14
+  - first:
+      213: 236242154156262621
+    second: King of kings tileset_15
+  - first:
+      213: -8014060522371941642
+    second: King of kings tileset_16
+  - first:
+      213: -5285268266089610917
+    second: King of kings tileset_17
+  - first:
+      213: 518576803853895428
+    second: King of kings tileset_18
+  - first:
+      213: 6912891667553766309
+    second: King of kings tileset_19
+  - first:
+      213: 2154691413936720115
+    second: King of kings tileset_20
+  - first:
+      213: 7811552147788589224
+    second: King of kings tileset_21
+  - first:
+      213: 6181563065002731206
+    second: King of kings tileset_22
+  - first:
+      213: -9179954107428676211
+    second: King of kings tileset_23
+  - first:
+      213: -352212687684222478
+    second: King of kings tileset_24
+  - first:
+      213: 7039551119380734292
+    second: King of kings tileset_25
+  - first:
+      213: -3679669515513887047
+    second: King of kings tileset_26
+  - first:
+      213: -4562524809489763280
+    second: King of kings tileset_27
+  - first:
+      213: -6991049970101986777
+    second: King of kings tileset_28
+  - first:
+      213: 3855469614535495187
+    second: King of kings tileset_29
+  - first:
+      213: 8426312342350405449
+    second: King of kings tileset_30
+  - first:
+      213: -1511261874382047370
+    second: King of kings tileset_31
+  - first:
+      213: -9200210138805732813
+    second: King of kings tileset_32
+  - first:
+      213: 7423958986251244301
+    second: King of kings tileset_33
+  - first:
+      213: 4300913602148694482
+    second: King of kings tileset_34
+  - first:
+      213: 4365554224705158520
+    second: King of kings tileset_35
+  - first:
+      213: -6203009136150096066
+    second: King of kings tileset_36
+  - first:
+      213: 947991978469864089
+    second: King of kings tileset_37
+  - first:
+      213: 6216183672709488949
+    second: King of kings tileset_38
+  - first:
+      213: -2404453075294791333
+    second: King of kings tileset_39
+  - first:
+      213: 5419035823145242915
+    second: King of kings tileset_40
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: King of kings tileset_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1048
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c61cd8df4756c200800000000000000
+      internalID: 199943233916901060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King of kings tileset_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1048
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b57ff3ee013bbb0800000000000000
+      internalID: -4921571352324383884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King of kings tileset_2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1048
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b6f66ad20be67bb0800000000000000
+      internalID: -4938501543878527306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King of kings tileset_3
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1048
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cca08fc5c5a23540800000000000000
+      internalID: 4986230006461017284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King of kings tileset_4
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1048
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 493807199cfefa480800000000000000
+      internalID: -8885619890771164268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King of kings tileset_5
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1048
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b77a600a9c7b6c0800000000000000
+      internalID: -4127608844318180464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King of kings tileset_6
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1048
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68147410a2e6269b0800000000000000
+      internalID: -5088383502286110330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King of kings tileset_7
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1048
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18feffc5193a7f900800000000000000
+      internalID: 718222510314745729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King of kings tileset_8
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1048
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f5f5b487f91dd2a0800000000000000
+      internalID: -6711179318838037005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King of kings tileset_9
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1048
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d2806e1e68199f90800000000000000
+      internalID: -6946494089007168816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King of kings tileset_10
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1016
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a6b0f8f63db58cd0800000000000000
+      internalID: -2556429169660479840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King of kings tileset_11
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1016
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89543ec9fbba99b50800000000000000
+      internalID: 6600495568347415960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King of kings tileset_12
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1016
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c2a0b9535d740800800000000000000
+      internalID: 577724449150771904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King of kings tileset_13
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1016
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d69f903fdb17ca0800000000000000
+      internalID: -6020822375275598575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King of kings tileset_14
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1016
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aa724254a6e54200800000000000000
+      internalID: 163790554898004642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King of kings tileset_15
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1016
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd4057fccfc474300800000000000000
+      internalID: 236242154156262621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King of kings tileset_16
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1016
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6faf98b4a6658c090800000000000000
+      internalID: -8014060522371941642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King of kings tileset_17
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1016
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b518519b384f6a6b0800000000000000
+      internalID: -5285268266089610917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King of kings tileset_18
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1016
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40708760bda523700800000000000000
+      internalID: 518576803853895428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King of kings tileset_19
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1016
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5abcc4778568fef50800000000000000
+      internalID: 6912891667553766309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King of kings tileset_20
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 984
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f84848cc6007ed10800000000000000
+      internalID: 2154691413936720115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King of kings tileset_21
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 984
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a8e0618a45386c60800000000000000
+      internalID: 7811552147788589224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King of kings tileset_22
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 984
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c6a9263bd259c550800000000000000
+      internalID: 6181563065002731206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King of kings tileset_23
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 984
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d535470604a9080800000000000000
+      internalID: -9179954107428676211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King of kings tileset_24
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 984
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f142393d60bc1bf0800000000000000
+      internalID: -352212687684222478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King of kings tileset_25
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 984
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45164e8227281b160800000000000000
+      internalID: 7039551119380734292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King of kings tileset_26
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 984
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b606f442103fecc0800000000000000
+      internalID: -3679669515513887047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King of kings tileset_27
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 984
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 034b47bebd7aea0c0800000000000000
+      internalID: -4562524809489763280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King of kings tileset_28
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 984
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72ad015a71dcafe90800000000000000
+      internalID: -6991049970101986777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King of kings tileset_29
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 984
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31e43b0ff21618530800000000000000
+      internalID: 3855469614535495187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King of kings tileset_30
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 952
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f194c4e6640f470800000000000000
+      internalID: 8426312342350405449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King of kings tileset_31
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 952
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 677fdde055be60be0800000000000000
+      internalID: -1511261874382047370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King of kings tileset_32
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 952
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33a7981af99425080800000000000000
+      internalID: -9200210138805732813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King of kings tileset_33
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 952
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d03139a3d53370760800000000000000
+      internalID: 7423958986251244301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King of kings tileset_34
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 952
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d9f7b9422aefab30800000000000000
+      internalID: 4300913602148694482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King of kings tileset_35
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 952
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87db14b0070959c30800000000000000
+      internalID: 4365554224705158520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King of kings tileset_36
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 952
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37554d3e0c7ae9a0800000000000000
+      internalID: -6203009136150096066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King of kings tileset_37
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 952
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 992bd968ea1f72d00800000000000000
+      internalID: 947991978469864089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King of kings tileset_38
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 952
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 531ae669d12544650800000000000000
+      internalID: 6216183672709488949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King of kings tileset_39
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 952
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5955f7daaaa1aed0800000000000000
+      internalID: -2404453075294791333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
